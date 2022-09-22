@@ -1,8 +1,11 @@
 # Credit-Card-Fraud-Detection
-![](images/credit-card-1.jpg)
+
+# Author: Leandro Fusco | Data Scientist
 
 Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+
+![](images/credit-card-1.jpg)
 
 Content
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
